@@ -26,6 +26,23 @@ With the global shift towards renewable energy, accurately forecasting the outpu
 ## 📂 Project Structure
 
 The repository is organized as follows:
+```text
+solar-power-forecasting/
+├── .gitignore
+├── README.md
+├── requirements.txt
+├── app.py                  # The Gradio application script
+├── solar_model.joblib      # The serialized, trained model
+│
+├── data/                   # Contains the raw data (ignored by git)
+│   ├── Plant_1_Generation_Data.csv
+│   └── Plant_1_Weather_Sensor_Data.csv
+│
+├── notebooks/              # Contains the exploratory data analysis
+│   └── 01-EDA-and-Model-Building.ipynb
+│
+└── src/                    # Source code directory
+    └── train.py            # Script to train the model and save it
 solar-power-forecasting/
 ├── .gitignore
 ├── README.md
@@ -42,8 +59,7 @@ solar-power-forecasting/
 │
 └── src/                    # Source code directory
 └── train.py            # Script to train the model and save it
-
-
+```
 
 ## ⚙️ Running Locally
 
