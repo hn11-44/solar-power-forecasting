@@ -8,7 +8,7 @@ A complete end-to-end machine learning project that predicts the power generatio
 
 The application is deployed and live. You can test it here:
 
-**[➡️ Live Solar Power Forecasting App](https://huggingface.co/spaces/hrmn1/solar-forecasting-app)**
+**[➡️ Live Solar Power Forecasting App](hrmn1/solar-forecasting-app)**
 
 ## 📖 Problem Statement
 
