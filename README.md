@@ -1,6 +1,6 @@
 # ☀️ Solar Power Generation Forecasting
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](YOUR_HUGGING_FACE_SPACE_URL_HERE)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/hrmn1/solar-forecasting-app)
 
 A complete end-to-end machine learning project that predicts the power generation of a solar plant based on weather data. This application is built with Scikit-learn and deployed as an interactive web app using Gradio on Hugging Face Spaces.
 
@@ -51,7 +51,7 @@ To run this project on your own machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/hn11-44/solar-power-forecasting.git](https://github.com/hn11-44/solar-power-forecasting.git)
+    git clone **[https://github.com/hn11-44/solar-power-forecasting.git](https://github.com/hn11-44/solar-power-forecasting.git)**
     cd solar-power-forecasting
     ```
 
