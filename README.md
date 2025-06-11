@@ -51,7 +51,7 @@ To run this project on your own machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone **[https://github.com/hn11-44/solar-power-forecasting.git](https://github.com/hn11-44/solar-power-forecasting.git)**
+    git clone [https://github.com/hn11-44/solar-power-forecasting.git](https://github.com/hn11-44/solar-power-forecasting.git)
     cd solar-power-forecasting
     ```
 
