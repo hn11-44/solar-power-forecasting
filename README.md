@@ -82,7 +82,7 @@ To run this project on your own machine, follow these steps:
     ```bash
     python app.py
     ```
-    Open your browser and navigate to the local URL provided (usually `http://127.0.0.1:7860`).
+    Open your browser and navigate to the local URL provided.
 
 ## 🤖 Model Details
 
